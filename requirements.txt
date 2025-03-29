@@ -1,0 +1,7 @@
+Flask==3.0.0
+tensorflow==2.15.0
+numpy==1.26.4
+requests==2.31.0
+pytest==8.0.0
+Pillow==10.2.0  # If working with image files
+gunicorn==21.2.0  # If deploying on a server
